@@ -1,0 +1,25 @@
+/target/
+.classpath
+*/.settings/
+.settings/*
+*/target/*
+.class
+*/logs/
+\.svn/
+.project
+*/.project
+.DS_Store
+*/.DS_Store
+*/.gitignore
+.idea
+*.iml
+.externalToolBuilders
+rebel.xml
+rebel-remote.xml
+
+pom.xml.versionsBackup
+
+# Package Files #
+*.jar
+*.war
+*.ear
