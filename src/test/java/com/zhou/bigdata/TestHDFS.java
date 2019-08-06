@@ -13,7 +13,7 @@ import java.net.URI;
 import java.net.URISyntaxException;
 
 /**
- * @author changajingzhou
+ * @author mrchang
  * @description: 测试HDFS
  * @date 2019-08-07 00:53
  */
